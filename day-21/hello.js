@@ -63,6 +63,12 @@ remote: Resolving deltas: 100% (3/3), done.*/
 //I think I neglected to stage my changes before committing. I will run the 
 // command git status to see if I have any changes that need to be staged.
 
+//Now I'll check again on GitHub to see if my changes were saved to the remote repository.
+
+//My changes were saved to the remote repository. I can see my changes on GitHub now.
+//However my folder structure is a mess. I have to be more careful about that in the future.
+
+
 // node daily-exercises/day-21/hello.js
 
 // Then change the greeting, save, and run the same file again.
