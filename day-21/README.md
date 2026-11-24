@@ -13,11 +13,16 @@ Complete this task for Assignment 1. Keep this folder inside the same public Wee
 
 ## My evidence
 
-- Fictional activity: TODO
-- Command I ran from the repository root: TODO
-- First observed output: TODO
-- Changed observed output: TODO
-- What saving does: TODO
+- Fictional activity: Hello from my favorite yoga class!
+Hello from my second commit
+- Command I ran from the repository root: `node day-21/hello.js
+- First observed output: Hello from my favorite yoga class!
+Hello from my second commit
+
+- Changed observed output: 
+The output changed to Hello from my favorite golf course!
+Hello from my second commit ( I didn't comment that line out)
+- What saving does: Saving saves my changes in my local folder.
 - What a local commit records: TODO
 - Why I push after committing: TODO
 - How I checked that GitHub has my final version: TODO
